@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "669607d7aa791ed0dbe14fab"
+  },
+  "fname": "Piyush Barapatre",
+  "username": "Piyush1234",
+  "password": "Piyush@1",
+  "to_dos": [
+    {
+      "todo_name": "study",
+      "description": "s1",
+      "complete": true,
+      "_id": {
+        "$oid": "669607d7aa791ed0dbe14fac"
+      }
+    },
+    {
+      "todo_name": "workout",
+      "description": "s2",
+      "complete": false,
+      "_id": {
+        "$oid": "66960b8d3b93f3bab7566ea4"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696190e13550455bf80221d"
+  },
+  "fname": "Faiz",
+  "username": "Faiz1234",
+  "password": "Faiz@123",
+  "to_dos": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961b3cfe4bc52bda9943c1"
+  },
+  "fname": "n",
+  "username": "p",
+  "password": "p",
+  "to_dos": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669778e38d67d8e945c62ca0"
+  },
+  "fname": "Jayesh",
+  "username": "jhhh",
+  "password": "hgg",
+  "to_dos": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698a27b5f76d8b1410a2a2c"
+  },
+  "fname": "Om",
+  "username": "Om4567",
+  "password": "$2b$10$NWt64TShGAVAS8oQYQBOgeaqsT.h6r9GHjnFYrwrbnnc72uuJNOVi",
+  "to_dos": [
+    {
+      "todo_name": "work",
+      "description": "w1",
+      "complete": false,
+      "_id": {
+        "$oid": "6698ea3fc25970d116d47ce7"
+      }
+    },
+    {
+      "todo_name": "Gym",
+      "description": "G1",
+      "complete": false,
+      "_id": {
+        "$oid": "6698eab0c25970d116d47cee"
+      }
+    },
+    {
+      "todo_name": "Gym",
+      "description": "G1",
+      "complete": false,
+      "_id": {
+        "$oid": "6698eab4c25970d116d47cf6"
+      }
+    },
+    {
+      "todo_name": "F1",
+      "description": "F2",
+      "complete": false,
+      "_id": {
+        "$oid": "6698eac8c25970d116d47d04"
+      }
+    },
+    {
+      "todo_name": "t1",
+      "description": "t2",
+      "complete": false,
+      "_id": {
+        "$oid": "6698eeabc25970d116d47d38"
+      }
+    },
+    {
+      "todo_name": "hhh",
+      "description": "hhh",
+      "complete": false,
+      "_id": {
+        "$oid": "66990610244714f88cdd71a1"
+      }
+    },
+    {
+      "todo_name": "new",
+      "description": "n1",
+      "complete": false,
+      "_id": {
+        "$oid": "6699ea1d004f34611de82f1b"
+      }
+    },
+    {
+      "todo_name": "cba",
+      "description": "zyx",
+      "complete": false,
+      "_id": {
+        "$oid": "6699f92497842d6ad4a819af"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a43248107fc6d2eaf5ad8"
+  },
+  "fname": "kapil barapatre",
+  "username": "kapil4567",
+  "password": "$2b$10$/uv689XGzJuecWtD7RtaVeVxEd8rw8kQ73ZzHQuLMqvxdGJtZqI9G",
+  "to_dos": [],
+  "__v": 0
+}]
